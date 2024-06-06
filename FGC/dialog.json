@@ -1,6 +1,25 @@
-9YUCLo1BYWYHN40AiSMOFSyJ48aJCMe11p19Ltjct+Bis8NIT2nEdNqWHf4DyQG7IFBXUlPIuP+D
-Q6iRzTL7DEnh9I3qDVw7zgAiu3vWIRI0Loe1FE8DM00KOpxDjmcJHqC7+Hbg5UaL3bT/ALHqH8XP
-vbzDA8sg/yKkCjA9mY4ix3zzswA2v0I9xzY2diRlEbkn6LmgboFnd2ySfgLskzDCKyNWqIP4Cxgp
-emUXTrRN1MjaTFMMoUxqX5c767ssWOc+XEJcWnq/QuY7hQEND7dQiCAVLgOwOgV3LG5syW+uYQSq
-vKvf6OmXCuMTQwXobXYkWY3eKfIvZaHFjq+sbx0l83rFxoV7oRd+yMk40ozkL9PmIT6UJIOxJQlR
-z3ks
+{
+  "id": 1,
+  "dialog": "on",
+  "title": "স্বাগতম",
+  "msg": "আসসালামুআলাইকুম, অ্যাপটি ব্যবহার করার জন্য আপনাকে ধন্যবাদ। এই অ্যাপটি ফেনী সরকারি কলেজের শিক্ষার্থীদের সুবিদার্থে তৈরি করা হয়েছে। এইখানে কলেজের সকল আপডেট নোটিশ দেখতে পারবে কোনো ঝামেলা ছাড়াই। সময় মতো সকল আপডেট নোটিশের নোটিফিকেশন পেয়ে যাবেন।",
+  "but1": "on",
+  "but1Tx": "OK",
+  "but1_click": "ok",
+  "but2": "on",
+  "but2Tx": "SHARE",
+  "but2_click": "share",
+  "url": "https://bit.ly/3GyK7v0",
+  "repeat": "on",
+  "verName": "1.0",
+  "shareTx": "Hey Sir/Mem, Download this app to be the first to see all the updated notices of the college. Share it with your friends if you benefited from it.\nDeveloped By MD-KAWSAR\n\nhttps://bit.ly/3GyK7v0",
+  "devInfo": {
+    "name": "MD-KAWSAR",
+    "fb": "https://www.facebook.com/mdk4w54r",
+    "email": "mdkawsar@duck.com",
+    "report": "https://wirepusher.com/send?id\u003dxjPnmpGgw\u0026title\u003dFGC-REPORT\u0026message\u003d**msg**\u0026type\u003d**type**",
+    "appUrl": "https://bit.ly/3GyK7v0",
+    "moreApps": "https://play.google.com/store/apps/dev?id\u003d5767326845790324527",
+    "privacy": "https://www.termsfeed.com/live/0a6b0cd7-f9cc-4115-b9ee-a187b80f500c"
+  }
+}
