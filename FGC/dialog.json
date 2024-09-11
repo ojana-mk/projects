@@ -10,7 +10,7 @@
   "but2": "on",
   "but2Tx": "SHARE",
   "but2_click": "share",
-  "url": "https://play.google.com/apps/testing/feni.gov.clg",
+  "url": "https://firebase.play.google.com/apps/testing/feni.gov.clg",
   "repeat": "on",
   "verName": "1.4",
   "shareTx": "Hey Sir/Mem, Download this app to be the first to see all the updated notices of the college. Share it with your friends if you benefited from it.\nDeveloped By MD-KAWSAR\n\nhttps://play.google.com/apps/testing/feni.gov.clg",
@@ -24,6 +24,7 @@
     "privacy": "https://sites.google.com/view/fenigovernmentcollege/home",
     "isPlay": "off",
     "bot_token": "6144188266:AAEc77IjJMmawRtJSbbQ0-9IY-9yLEFLwA8",
-    "chat_id": "-1002153945016"
+    "chat_id": "-1002153945016",
+    "downloadType":"inapp"
   }
 }
