@@ -25,6 +25,10 @@
     "isPlay": "off",
     "bot_token": "6144188266:AAEc77IjJMmawRtJSbbQ0-9IY-9yLEFLwA8",
     "chat_id": "-1002153945016",
-    "downloadType":"inapp"
+    "downloadType": "inApp"
+  },
+  "chatGPT": {
+    "url": "https://chatgpti.info/wp-admin/admin-ajax.php?_wpnonce\u003d*nonce*\u0026action\u003dwpaicg_chat_shortcode_message\u0026message\u003dhi",
+    "nonce": "83737ensjmdb"
   }
 }
