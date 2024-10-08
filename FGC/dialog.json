@@ -28,7 +28,7 @@
     "downloadType": "inApp"
   },
   "chatGPT": {
-    "url": "https://chatgpti.info/wp-admin/admin-ajax.php?_wpnonce\u003d*nonce*\u0026action\u003dwpaicg_chat_shortcode_message\u0026message\u003dhi",
+    "url": "https://chatgpti.info/wp-admin/admin-ajax.php?_wpnonce=*nonce*&action=wpaicg_chat_shortcode_message&message=",
     "nonce": "83737ensjmdb"
   }
 }
