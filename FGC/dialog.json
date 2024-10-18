@@ -34,7 +34,7 @@
   },
   "mainInfo": {
     "mainUrl": "http://no-idea.wuaze.com/",
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
-    "token": "__test\u003d395bdd2b4fc0efa2a9b1ced2c5f8d3ae"
+    "user_agent": "Mozilla/5.0",
+    "token": "__test=14b96f1caebae9d64d70d0ddf874b268"
   }
 }
