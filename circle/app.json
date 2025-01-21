@@ -10,7 +10,7 @@
   "but2": "on",
   "but2Tx": "SHARE",
   "but2_click": "share",
-  "url": "https://pay.ojana-mk.xyz/",
+  "url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12049-69497684-3e2c49caf9a2ff61b7dc6f7902fbdf13.apk?apk_name=simple-demo",
   "repeat": "on",
   "verName": "1.0",
   "downloadType": "web",
@@ -25,7 +25,7 @@
     "privacy": "",
     "bot_token": "",
     "chat_id": "",
-    "mainUrl": "https://pay.ojana-mk.xyz/"
+    "mainUrl": "https://circle.ojana-mk.xyz/api/"
   },
   "mainInfo": {
     "mainUrl": "http://circle.ojana-mk.xyz/api/",
