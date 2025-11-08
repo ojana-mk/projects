@@ -10,7 +10,7 @@
   "but2": "on",
   "but2Tx": "SHARE",
   "but2_click": "share",
-  "url": "http://103.169.160.74/~ojanamkx/sub-domain/ojana-pay/",
+  "url": "https://mk-service.onrender.com",
   "repeat": "off",
   "verName": "1.0",
   "downloadType": "web",
@@ -25,10 +25,10 @@
     "privacy": "",
     "bot_token": "",
     "chat_id": "",
-    "mainUrl": "http://103.169.160.74/~ojanamkx/sub-domain/ojana-pay/"
+    "mainUrl": "https://mk-service.onrender.com"
   },
   "mainInfo": {
-    "mainUrl": "http://103.169.160.74/~ojanamkx/sub-domain/ojana-pay//api/",
+    "mainUrl": "https://mk-service.onrender.com",
     "user_agent": "Mozilla/5.0",
     "token": "__test=14b96f1caebae9d64d70d0ddf874b268"
   }
