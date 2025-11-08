@@ -28,7 +28,7 @@
     "mainUrl": "https://mk-service.onrender.com/ojanapay/api"
   },
   "mainInfo": {
-    "mainUrl": "https://mk-service.onrender.com",
+    "mainUrl": "https://mk-service.onrender.com/ojanapay/api",
     "user_agent": "Mozilla/5.0",
     "token": "__test=14b96f1caebae9d64d70d0ddf874b268"
   }
