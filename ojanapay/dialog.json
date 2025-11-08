@@ -25,10 +25,10 @@
     "privacy": "",
     "bot_token": "",
     "chat_id": "",
-    "mainUrl": "https://pay.ojana-mk.xyz/"
+    "mainUrl": "http://103.169.160.74/~ojanamkx/sub-domain/ojana-pay/"
   },
   "mainInfo": {
-    "mainUrl": "http://pay.ojana-mk.xyz/api/",
+    "mainUrl": "http://103.169.160.74/~ojanamkx/sub-domain/ojana-pay//api/",
     "user_agent": "Mozilla/5.0",
     "token": "__test=14b96f1caebae9d64d70d0ddf874b268"
   }
