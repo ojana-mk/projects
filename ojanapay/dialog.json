@@ -10,7 +10,7 @@
   "but2": "on",
   "but2Tx": "SHARE",
   "but2_click": "share",
-  "url": "https://mk-service.onrender.com",
+  "url": "https://mk-service.onrender.com/ojanapay/",
   "repeat": "off",
   "verName": "1.0",
   "downloadType": "web",
@@ -25,7 +25,7 @@
     "privacy": "",
     "bot_token": "",
     "chat_id": "",
-    "mainUrl": "https://mk-service.onrender.com"
+    "mainUrl": "https://mk-service.onrender.com/ojanapay/api"
   },
   "mainInfo": {
     "mainUrl": "https://mk-service.onrender.com",
