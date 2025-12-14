@@ -1,1 +1,25 @@
-
+{
+  "id": 1,
+  "dialog": "on",
+  "title": "স্বাগতম",
+  "msg": "আসসালামুআলাইকুম, অ্যাপটি শুধুমাত্র এ.জে.আর কুরিয়ারের ব্রাঞ্চ অফিস গুলোর জন্য তৈরি করা হয়েছে। অন্যথায় কেউ ব্যবহার করবেন না।",
+  "but1": "on",
+  "but1Tx": "OK",
+  "but1_click": "ok",
+  "but2": "on",
+  "but2Tx": "SHARE",
+  "but2_click": "share",
+  "url": "https://ajr.ojana-mk.xyz/",
+  "repeat": "on",
+  "verName": "1.0",
+  "shareTx": "Hey Sir/Mem, Download this app to do all the website tasks quickly and easily.\nDeveloped By MD-KAWSAR\n\nhttps://bit.ly/3GyK7v0",
+  "devInfo": {
+    "name": "MD-KAWSAR",
+    "fb": "https://www.facebook.com/mdk4w54r",
+    "email": "mdkawsar@duck.com",
+    "report": "https://wirepusher.com/send?id=xjPnmpGgw&title=FGC-REPORT&message=**msg**&type=**type**",
+    "appUrl": "https://ajr.ojana-mk.xyz/",
+    "moreApps": "https://play.google.com/store/apps/dev?id=5767326845790324527",
+    "privacy": "https://sites.google.com/view/ajr/home"
+  }
+}
