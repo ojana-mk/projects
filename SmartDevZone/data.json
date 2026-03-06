@@ -1,0 +1,47 @@
+{
+  "company": "SmartDevZone",
+  "founder": "MD KAWSAR",
+  "contribution": {
+    "project": "500",
+    "client": "15",
+    "experience": "10",
+    "satisfaction": "98"
+  },
+  "projects": [
+    {
+      "id": "376354",
+      "title": "Pranbondhu",
+      "subtitle": "Blood Donation And Helping Service",
+      "description": "this is description",
+      "link": "https://google.com/"
+    },
+    {
+      "id": "376354",
+      "title": "Pranbondhu",
+      "subtitle": "Blood Donation And Helping Service",
+      "description": "this is description",
+      "link": "https://google.com/"
+    },
+    {
+      "id": "376354",
+      "title": "Pranbondhu",
+      "subtitle": "Blood Donation And Helping Service",
+      "description": "this is description",
+      "link": "https://google.com/"
+    },
+    {
+      "id": "376354",
+      "title": "Pranbondhu",
+      "subtitle": "Blood Donation And Helping Service",
+      "description": "this is description",
+      "link": "https://google.com/"
+    },
+    {
+      "id": "376354",
+      "title": "Pranbondhu",
+      "subtitle": "Blood Donation And Helping Service",
+      "description": "this is description",
+      "link": "https://google.com/"
+    }
+  ]
+}
