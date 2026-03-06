@@ -11,174 +11,196 @@
   },
   "projects": [
     {
-    id: 1,
-    title: "E-Commerce Platform",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
-    description:
-      "A modern e-commerce platform with seamless checkout experience.","link": "https://google.com/"
-  },
-  {
-    id: 2,
-    title: "Finance Dashboard",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
-    description: "Real-time financial analytics dashboard for enterprises.","link": "https://google.com/"
-  },
-  {
-    id: 3,
-    title: "Healthcare App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
-    description: "Mobile healthcare solution for patient management.","link": "https://google.com/"
-  },
-  {
-    id: 4,
-    title: "Corporate Website",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
-    description: "Professional corporate website with modern design.","link": "https://google.com/"
-  },
-  {
-    id: 5,
-    title: "Banking App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800",
-    description: "Secure mobile banking application with advanced features.","link": "https://google.com/"
-  },
-  {
-    id: 6,
-    title: "Design System",
-    category: "UI Designs",
-    image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800",
-    description: "Comprehensive UI design system for enterprise products.","link": "https://google.com/"
-  },
-  {
-    id: 7,
-    title: "Travel Booking App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800",
-    description:
-      "Feature-rich travel booking application with flight and hotel reservations.","link": "https://google.com/"
-  },
-  {
-    id: 8,
-    title: "SaaS Dashboard",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800",
-    description: "Business intelligence dashboard for SaaS analytics.","link": "https://google.com/"
-  },
-  {
-    id: 9,
-    title: "Fitness App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800",
-    description: "Comprehensive fitness tracking app with workout plans.","link": "https://google.com/"
-  },
-  {
-    id: 10,
-    title: "Restaurant Website",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
-    description: "Elegant restaurant website with online reservation system.","link": "https://google.com/"
-  },
-  {
-    id: 11,
-    title: "E-Learning Platform",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800",
-    description: "Interactive online learning platform with video courses.","link": "https://google.com/"
-  },
-  {
-    id: 12,
-    title: "Food Delivery App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
-    description: "Quick food delivery app with real-time tracking.","link": "https://google.com/"
-  },
-  {
-    id: 13,
-    title: "NFT Marketplace",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=800",
-    description: "Digital marketplace for NFT collectibles and art.",
-  },
-  {
-    id: 14,
-    title: "Real Estate App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
-    description: "Property listing app with virtual tour features.","link": "https://google.com/"
-  },
-  {
-    id: 15,
-    title: "Social Media Dashboard",
-    category: "UI Designs",
-    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
-    description: "Analytics dashboard for social media management.","link": "https://google.com/"
-  },
-  {
-    id: 16,
-    title: "Crypto Wallet",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800",
-    description: "Secure cryptocurrency wallet with portfolio tracking.","link": "https://google.com/"
-  },
-  {
-    id: 17,
-    title: "Education App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
-    description: "Interactive learning app for children with gamification.","link": "https://google.com/"
-  },
-  {
-    id: 18,
-    title: "Portfolio Website",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
-    description: "Creative portfolio website for designers and artists.","link": "https://google.com/"
-  },
-  {
-    id: 19,
-    title: "Weather App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800",
-    description: "Weather forecasting app with hourly predictions.","link": "https://google.com/"
-  },
-  {
-    id: 20,
-    title: "Brand Identity",
-    category: "UI Designs",
-    image: "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800",
-    description: "Complete brand identity design for startups.","link": "https://google.com/"
-  },
-  {
-    id: 21,
-    title: "Job Portal",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
-    description: "Professional job posting and application platform.","link": "https://google.com/"
-  },
-  {
-    id: 22,
-    title: "Music Streaming App",
-    category: "Apps",
-    image: "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800",
-    description: "Music streaming app with personalized playlists.","link": "https://google.com/"
-  },
-  {
-    id: 23,
-    title: "Event Management",
-    category: "Websites",
-    image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
-    description: "Event planning and ticket booking platform.","link": "https://google.com/"
-  },
-  {
-    id: 24,
-    title: "Inventory System",
-    category: "UI Designs",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
-    description: "Warehouse inventory management system interface.","link": "https://google.com/"
-  }
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+      "description": "A modern e-commerce platform with seamless checkout experience.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 2,
+      "title": "Finance Dashboard",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+      "description": "Real-time financial analytics dashboard for enterprises.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 3,
+      "title": "Healthcare App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "description": "Mobile healthcare solution for patient management.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 4,
+      "title": "Corporate Website",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+      "description": "Professional corporate website with modern design.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 5,
+      "title": "Banking App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800",
+      "description": "Secure mobile banking application with advanced features.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 6,
+      "title": "Design System",
+      "category": "UI Designs",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800",
+      "description": "Comprehensive UI design system for enterprise products.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 7,
+      "title": "Travel Booking App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800",
+      "description": "Feature-rich travel booking application with flight and hotel reservations.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 8,
+      "title": "SaaS Dashboard",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800",
+      "description": "Business intelligence dashboard for SaaS analytics.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 9,
+      "title": "Fitness App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800",
+      "description": "Comprehensive fitness tracking app with workout plans.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 10,
+      "title": "Restaurant Website",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "description": "Elegant restaurant website with online reservation system.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 11,
+      "title": "E-Learning Platform",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800",
+      "description": "Interactive online learning platform with video courses.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 12,
+      "title": "Food Delivery App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+      "description": "Quick food delivery app with real-time tracking.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 13,
+      "title": "NFT Marketplace",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=800",
+      "description": "Digital marketplace for NFT collectibles and art.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 14,
+      "title": "Real Estate App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+      "description": "Property listing app with virtual tour features.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 15,
+      "title": "Social Media Dashboard",
+      "category": "UI Designs",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
+      "description": "Analytics dashboard for social media management.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 16,
+      "title": "Crypto Wallet",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800",
+      "description": "Secure cryptocurrency wallet with portfolio tracking.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 17,
+      "title": "Education App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
+      "description": "Interactive learning app for children with gamification.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 18,
+      "title": "Portfolio Website",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+      "description": "Creative portfolio website for designers and artists.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 19,
+      "title": "Weather App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800",
+      "description": "Weather forecasting app with hourly predictions.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 20,
+      "title": "Brand Identity",
+      "category": "UI Designs",
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800",
+      "description": "Complete brand identity design for startups.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 21,
+      "title": "Job Portal",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
+      "description": "Professional job posting and application platform.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 22,
+      "title": "Music Streaming App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800",
+      "description": "Music streaming app with personalized playlists.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 23,
+      "title": "Event Management",
+      "category": "Websites",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+      "description": "Event planning and ticket booking platform.",
+      "link": "https://google.com/"
+    },
+    {
+      "id": 24,
+      "title": "Inventory System",
+      "category": "UI Designs",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+      "description": "Warehouse inventory management system interface.",
+      "link": "https://google.com/"
+    }
   ]
 }
