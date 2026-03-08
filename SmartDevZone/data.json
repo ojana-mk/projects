@@ -218,5 +218,24 @@
     }
   ],
   "jobs": [],
-  "testimonial": []
+  "testimonial": [
+  {
+    "name": "John Smith",
+    "role": "CEO, TechStart",
+    "content": "SmartDevZone transformed our vision into reality. Their team delivered a stunning web application that exceeded our expectations.",
+    "rating": 5
+  },
+  {
+    "name": "Sarah Johnson",
+    "role": "Founder, DesignCo",
+    "content": "Professional, knowledgeable, and dedicated. They delivered our project on time and with exceptional quality.",
+    "rating": 5
+  },
+  {
+    "name": "Michael Brown",
+    "role": "CTO, Enterprise Inc",
+    "content": "Outstanding development team. They understood our requirements perfectly and delivered a scalable solution.",
+    "rating": 5
+  }
+]
 }
