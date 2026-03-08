@@ -217,7 +217,64 @@
       "image": "https://image.com/"
     }
   ],
-  "jobs": [],
+  "jobs":[
+  {
+    "id": 1,
+    "title": "Senior Full-Stack Developer",
+    "department": "Engineering",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "We're looking for an experienced Full-Stack Developer to build scalable web and mobile applications.",
+    "requirements": [
+      "5+ years of experience in web development",
+      "Proficiency in React, Node.js, and TypeScript",
+      "Experience with cloud services (AWS/Azure)",
+      "Strong problem-solving skills"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "department": "Design",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Join our design team to create beautiful and intuitive user interfaces.",
+    "requirements": [
+      "3+ years of UI/UX design experience",
+      "Proficiency in Figma and Adobe Creative Suite",
+      "Strong portfolio showcasing web and mobile projects",
+      "Understanding of design systems"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mobile Developer (React Native)",
+    "department": "Engineering",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Build cross-platform mobile applications that delight our users.",
+    "requirements": [
+      "3+ years of mobile development experience",
+      "Expert in React Native or Flutter",
+      "Experience with mobile app publishing",
+      "Knowledge of mobile UI best practices"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "department": "Infrastructure",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Help us build and maintain robust infrastructure for our applications.",
+    "requirements": [
+      "3+ years of DevOps experience",
+      "Experience with Docker and Kubernetes",
+      "Knowledge of CI/CD pipelines",
+      "Familiarity with cloud platforms"
+    ]
+  }
+],
   "testimonial": [
   {
     "name": "John Smith",
