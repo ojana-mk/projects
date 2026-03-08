@@ -294,5 +294,31 @@
     "content": "Outstanding development team. They understood our requirements perfectly and delivered a scalable solution.",
     "rating": 5
   }
+],
+  "team" :[
+  {
+    "id": 1,
+    "name": "Md.Kawsar",
+    "image": "https://ojana-mk.netlify.app/md-kawsar-ojana-mk-bangladeshi-app-web-developer.jpg",
+    "role": "Full Stack Android & Web App Developer"
+  },
+  {
+    "id": 2,
+    "name": "Ariful Islam",
+    "image": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Ariful+Islam",
+    "role": "Mern Stack Developer"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hossain",
+    "image": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=Tanvir+Hossain",
+    "role": "Laravel Developer"
+  },
+  {
+    "id": 4,
+    "name": "Durjoy Dash",
+    "image": "https://ui-avatars.com/api/?background=0D8ABC&color=fff&name=durjoy+Dash",
+    "role": "Graphic Designer"
+  }
 ]
 }
