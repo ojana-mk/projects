@@ -326,7 +326,7 @@
     "subtitle": "Premium Web Service",
     "discount": "15",
     "link": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSkwXm19M2koCHaripKSjPBOU84bbVTdx-gxbiA_lbVU3-Uc7wKbmitaKli\u0026s\u003d10",
-    "chat": true,
-    "banner": false
+    "chat": false,
+    "banner": true
   }
 }
