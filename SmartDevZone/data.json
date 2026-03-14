@@ -2,12 +2,12 @@
   "company": "SmartDevZone",
   "founder": "MD KAWSAR",
   "contribution": {
-    "project": "500",
-    "client": "15",
-    "happy_client": "200",
+    "project": "250",
+    "client": "200",
+    "happy_client": "180",
     "developers": "5",
-    "experience": "10",
-    "satisfaction": "98"
+    "experience": "8",
+    "satisfaction": "99"
   },
   "projects": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "id": 2,
-      "title": "Finance Dashboard",
+      "title": "Madrasha Management",
       "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w\u003d800",
-      "description": "Real-time financial analytics dashboard for enterprises.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/6kXD0tm/madrasa-java.png",
+      "description": "A comprehensive Madrasha Management System that helps administrators efficiently manage students, teachers, classes, attendance, fees, and academic records in a centralized digital platform.",
+      "link": null
     },
     {
       "id": 3,
@@ -206,15 +206,15 @@
   "clients": [
     {
       "id": "1",
-      "name": "Google",
-      "link": "https://google.com/",
-      "image": "https://image.com/"
+      "name": "Pranbondhu",
+      "link": "https://pranbondhu.site/",
+      "image": "https://i.ibb.co.com/27JTmKfw/pranbondhu.png"
     },
     {
-      "id": "1",
-      "name": "Google",
-      "link": "https://google.com/",
-      "image": "https://image.com/"
+      "id": "2",
+      "name": "FGC",
+      "link": "https://fgc.gov.bd/",
+      "image": "https://i.ibb.co.com/Jjxg31dR/feni-gov-clg.png"
     }
   ],
   "jobs": [
@@ -313,20 +313,14 @@
       "name": "Tanvir Hossain",
       "image": "https://ui-avatars.com/api/?background\u003d0D8ABC\u0026color\u003dfff\u0026name\u003dTanvir+Hossain",
       "role": "Laravel Developer"
-    },
-    {
-      "id": 4,
-      "name": "Durjoy Dash",
-      "image": "https://ui-avatars.com/api/?background\u003d0D8ABC\u0026color\u003dfff\u0026name\u003ddurjoy+Dash",
-      "role": "Graphic Designer"
     }
   ],
   "notice": {
     "title": "Limited Offer",
     "subtitle": "Premium Web Service",
     "discount": "15",
-    "link": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSkwXm19M2koCHaripKSjPBOU84bbVTdx-gxbiA_lbVU3-Uc7wKbmitaKli\u0026s\u003d10",
-    "chat": false,
+    "link": "https://i.ibb.co.com/LhgYv0wx/website-offer-smartdevzone.png",
+    "chat": true,
     "banner": true
   }
 }
