@@ -295,7 +295,8 @@
       "rating": 5
     }
   ],
-  "team": [
+  "team": [],
+  "teams": [
     {
       "id": 1,
       "name": "Md.Kawsar",
