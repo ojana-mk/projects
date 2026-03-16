@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "title": "Healthcare App",
+      "title": "Blood Donation And Helping Service",
       "category": "Apps",
       "image": "https://i.ibb.co.com/0k3JPfR/blood-donation-flutter.png",
       "description": "Blood Donation and Helping App is a platform that connects blood donors with people in need, making it easier to find donors quickly and support emergency medical situations.",
@@ -75,12 +75,12 @@
       "link": "https://ojana-mk.netlify.app/"
     },
     {
-      "id": 9,
-      "title": "Fitness App",
-      "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w\u003d800",
-      "description": "Comprehensive fitness tracking app with workout plans.",
-      "link": "https://google.com/"
+      "id": 11,
+      "title": "SmartDevZone",
+      "category": "Websites",
+      "image": "https://i.ibb.co.com/pr5dxBk0/smartdevzone-web.png",
+      "description": "**Smart Dev Zone** is a software development company specializing in creating innovative digital solutions, including web and mobile applications. It focuses on delivering high-quality, scalable, and customized software to meet the needs of businesses and clients.",
+      "link": "https://smartdevzone.com/"
     },
     {
       "id": 10,
@@ -89,14 +89,6 @@
       "image": "https://i.ibb.co.com/SjBBxft/website-seo.jpg",
       "description": "A website SEO project focuses on optimizing a website to improve its visibility on search engines, attract more organic traffic, and enhance user experience. It involves strategies like keyword research, on-page optimization, link building, and performance analysis to boost search rankings.",
       "link": null
-    },
-    {
-      "id": 11,
-      "title": "SmartDevZone",
-      "category": "Websites",
-      "image": "https://i.ibb.co.com/pr5dxBk0/smartdevzone-web.png",
-      "description": "**Smart Dev Zone** is a software development company specializing in creating innovative digital solutions, including web and mobile applications. It focuses on delivering high-quality, scalable, and customized software to meet the needs of businesses and clients.",
-      "link": "https://smartdevzone.com/"
     },
     {
       "id": 14,
@@ -115,27 +107,19 @@
       "link": null
     },
     {
+      "id": 9,
+      "title": "Fitness App",
+      "category": "Apps",
+      "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w\u003d800",
+      "description": "Comprehensive fitness tracking app with workout plans.",
+      "link": "https://google.com/"
+    },
+    {
       "id": 21,
       "title": "Job Portal",
       "category": "Websites",
       "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w\u003d800",
       "description": "Professional job posting and application platform.",
-      "link": "https://google.com/"
-    },
-    {
-      "id": 22,
-      "title": "Music Streaming App",
-      "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w\u003d800",
-      "description": "Music streaming app with personalized playlists.",
-      "link": "https://google.com/"
-    },
-    {
-      "id": 23,
-      "title": "Event Management",
-      "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w\u003d800",
-      "description": "Event planning and ticket booking platform.",
       "link": "https://google.com/"
     },
     {
