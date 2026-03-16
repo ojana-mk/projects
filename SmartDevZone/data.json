@@ -99,22 +99,6 @@
       "link": "https://smartdevzone.com/"
     },
     {
-      "id": 12,
-      "title": "Food Delivery App",
-      "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w\u003d800",
-      "description": "Quick food delivery app with real-time tracking.",
-      "link": "https://google.com/"
-    },
-    {
-      "id": 13,
-      "title": "NFT Marketplace",
-      "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w\u003d800",
-      "description": "Digital marketplace for NFT collectibles and art.",
-      "link": "https://google.com/"
-    },
-    {
       "id": 14,
       "title": "Golang Backend",
       "category": "Apps",
@@ -123,52 +107,12 @@
       "link": null
     },
     {
-      "id": 15,
-      "title": "Social Media Dashboard",
-      "category": "UI Designs",
-      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w\u003d800",
-      "description": "Analytics dashboard for social media management.",
-      "link": "https://google.com/"
-    },
-    {
-      "id": 16,
-      "title": "Crypto Wallet",
-      "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w\u003d800",
-      "description": "Secure cryptocurrency wallet with portfolio tracking.",
-      "link": "https://google.com/"
-    },
-    {
       "id": 17,
       "title": "Room Finder",
       "category": "Apps",
       "image": "https://i.ibb.co.com/Jw1ScQXv/room-finder.jpg",
       "description": "A mobile app that helps users find rooms and compatible flatmates in their city. It combines property listings with lifestyle matching to ensure a better living situation. The design focuses on trust, safety, and seamless communication.",
       "link": null
-    },
-    {
-      "id": 18,
-      "title": "Portfolio Website",
-      "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w\u003d800",
-      "description": "Creative portfolio website for designers and artists.",
-      "link": "https://google.com/"
-    },
-    {
-      "id": 19,
-      "title": "Weather App",
-      "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w\u003d800",
-      "description": "Weather forecasting app with hourly predictions.",
-      "link": "https://google.com/"
-    },
-    {
-      "id": 20,
-      "title": "Brand Identity",
-      "category": "UI Designs",
-      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w\u003d800",
-      "description": "Complete brand identity design for startups.",
-      "link": "https://google.com/"
     },
     {
       "id": 21,
