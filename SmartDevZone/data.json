@@ -14,9 +14,9 @@
       "id": 1,
       "title": "E-Commerce Platform",
       "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w\u003d800",
-      "description": "A modern e-commerce platform with seamless checkout experience.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/5WLd6jzV/Organic.webp",
+      "description": "An e-commerce organic food website is an online platform where users can browse and purchase fresh, natural, and chemical-free food products. It provides an easy way for customers to explore healthy food options and order them conveniently from home.",
+      "link": null
     },
     {
       "id": 2,
@@ -30,49 +30,49 @@
       "id": 3,
       "title": "Healthcare App",
       "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w\u003d800",
-      "description": "Mobile healthcare solution for patient management.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/0k3JPfR/blood-donation-flutter.png",
+      "description": "Blood Donation and Helping App is a platform that connects blood donors with people in need, making it easier to find donors quickly and support emergency medical situations.",
+      "link": null
     },
     {
       "id": 4,
-      "title": "Corporate Website",
+      "title": "Noakhali Public lilibrary",
       "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w\u003d800",
-      "description": "Professional corporate website with modern design.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/yc1xHgcs/lms-web-smartdevzone.png",
+      "description": "Noakhali Public Library is a community library that promotes reading and learning by providing books, study space, and educational resources for people of all ages.",
+      "link": null
     },
     {
       "id": 5,
-      "title": "Banking App",
+      "title": "Feni Government Collage",
       "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w\u003d800",
-      "description": "Secure mobile banking application with advanced features.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/5x6xmTkz/feni-government-collage.jpg",
+      "description": "Feni Government College is a well-known public college that provides quality higher education and supports students’ academic and personal development.",
+      "link": null
     },
     {
       "id": 6,
-      "title": "Design System",
+      "title": "Admin Panel",
       "category": "UI Designs",
-      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w\u003d800",
-      "description": "Comprehensive UI design system for enterprise products.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/Fk5gsS6p/admin-panel.png",
+      "description": "An admin panel design is a web-based interface that allows administrators to manage and monitor a system, website, or application efficiently. It focuses on usability, organization, and functionality to simplify tasks like user management, data tracking, and content control.",
+      "link": null
     },
     {
       "id": 7,
-      "title": "Travel Booking App",
+      "title": "Friend Circle",
       "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w\u003d800",
-      "description": "Feature-rich travel booking application with flight and hotel reservations.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/Swf7B2Yt/circle.jpg",
+      "description": "Friend Circle App is a social platform that helps people connect with friends, share moments, chat, and build meaningful relationships in a friendly online community.",
+      "link": null
     },
     {
       "id": 8,
-      "title": "SaaS Dashboard",
+      "title": "Portfolio Site",
       "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w\u003d800",
-      "description": "Business intelligence dashboard for SaaS analytics.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/FCNvyjC/Screenshot-2026-02-20-150031.png",
+      "description": "A portfolio website is a personal platform used to showcase skills, projects, achievements, and professional experience in a clear and organized way. It helps present your work to others and build a strong professional online presence.",
+      "link": "https://ojana-mk.netlify.app/"
     },
     {
       "id": 9,
@@ -84,19 +84,19 @@
     },
     {
       "id": 10,
-      "title": "Restaurant Website",
+      "title": "Website SEO",
       "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w\u003d800",
-      "description": "Elegant restaurant website with online reservation system.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/SjBBxft/website-seo.jpg",
+      "description": "A website SEO project focuses on optimizing a website to improve its visibility on search engines, attract more organic traffic, and enhance user experience. It involves strategies like keyword research, on-page optimization, link building, and performance analysis to boost search rankings.",
+      "link": null
     },
     {
       "id": 11,
-      "title": "E-Learning Platform",
+      "title": "SmartDevZone",
       "category": "Websites",
-      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w\u003d800",
-      "description": "Interactive online learning platform with video courses.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/pr5dxBk0/smartdevzone-web.png",
+      "description": "**Smart Dev Zone** is a software development company specializing in creating innovative digital solutions, including web and mobile applications. It focuses on delivering high-quality, scalable, and customized software to meet the needs of businesses and clients.",
+      "link": "https://smartdevzone.com/"
     },
     {
       "id": 12,
@@ -116,11 +116,11 @@
     },
     {
       "id": 14,
-      "title": "Real Estate App",
+      "title": "Golang Backend",
       "category": "Apps",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w\u003d800",
-      "description": "Property listing app with virtual tour features.",
-      "link": "https://google.com/"
+      "image": "https://i.ibb.co.com/yFZRYV7r/golang-project.png",
+      "description": "A Golang backend is a server-side application built using Go that handles business logic, APIs, database operations, and communication between the client and the server. It is known for its high performance, simplicity, and ability to build scalable and efficient web services.",
+      "link": null
     },
     {
       "id": 15,
